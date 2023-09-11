@@ -1,0 +1,12 @@
+/Users/smybayrktr/Desktop/learning info codes/TRedis/RedisWithApi/Services/bin/Debug/net7.0/Services.deps.json
+/Users/smybayrktr/Desktop/learning info codes/TRedis/RedisWithApi/Services/bin/Debug/net7.0/Services.dll
+/Users/smybayrktr/Desktop/learning info codes/TRedis/RedisWithApi/Services/bin/Debug/net7.0/Services.pdb
+/Users/smybayrktr/Desktop/learning info codes/TRedis/RedisWithApi/Services/obj/Debug/net7.0/Services.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/learning info codes/TRedis/RedisWithApi/Services/obj/Debug/net7.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/learning info codes/TRedis/RedisWithApi/Services/obj/Debug/net7.0/Services.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/learning info codes/TRedis/RedisWithApi/Services/obj/Debug/net7.0/Services.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/learning info codes/TRedis/RedisWithApi/Services/obj/Debug/net7.0/Services.csproj.CoreCompileInputs.cache
+/Users/smybayrktr/Desktop/learning info codes/TRedis/RedisWithApi/Services/obj/Debug/net7.0/Services.dll
+/Users/smybayrktr/Desktop/learning info codes/TRedis/RedisWithApi/Services/obj/Debug/net7.0/refint/Services.dll
+/Users/smybayrktr/Desktop/learning info codes/TRedis/RedisWithApi/Services/obj/Debug/net7.0/Services.pdb
+/Users/smybayrktr/Desktop/learning info codes/TRedis/RedisWithApi/Services/obj/Debug/net7.0/ref/Services.dll
